@@ -1,0 +1,377 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.first{
+    position: relative;
+}
+.first img{
+    width: 1263px;
+    height: 700px;
+    position: absolute;
+}
+
+.all .no img{
+    width: 100px;
+}
+.all  {
+    display: flex;
+    justify-content: space-between;
+   
+    
+
+}
+.all .no{
+    
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.all .yas{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-right: 70px;
+}
+.all .no p{
+    margin-inline: 13px;
+}
+.all .yas {
+    
+}
+.no .cc{
+    border-bottom: 3px solid rgb(116, 37, 190) ;
+
+}
+ 
+   .yas .pipi{
+    position: relative;
+    
+
+   } 
+   .yas .qq{
+    position: absolute;
+    padding: 50px;
+    font-size: 20px;
+   }
+    
+  
+   
+  
+
+
+.smalh{
+    display: flex;
+}
+.smalh .h11{
+    font-size: 50px;
+    margin-right:5px ;
+}
+.smalh  .hh2{
+     color: rgb(116, 37, 190);
+}
+.smalh  .hh1{
+    color: rgb(110, 107, 107);
+
+}
+.smalh  .hh3{
+    color: rgb(110, 107, 107);
+}
+.distinct .divpp{
+    color: rgb(110, 107, 107);
+font-size: 25px;
+margin-top: 13px;
+}
+.bigp{ 
+    display: flex;
+    margin-left: 55px;
+    margin-top: 200px;
+    
+}
+
+.photo{
+    position: relative;
+}
+.photo .oho{
+    position: absolute;
+    
+    width: 650px;
+    margin-left: 600px;
+    margin-top: 25px;
+    
+}
+.photo .oo{
+    width: 280px;
+    position: absolute;
+    margin-left: 740px;
+    margin-top: 30px;
+}
+.photo .hho{
+    width: 300px;
+    position: absolute;
+    margin-left: 735px;
+    margin-top: 420px;
+}
+.ppoo img{
+    width: 900px;
+    margin-top: 170px;
+    margin-left: 0;
+}
+/*------------------------------------------------------------*/
+/*-------------------------------------------------------------*/
+.sphoto1{
+    position: relative;
+    
+}
+.sphoto1 {
+   
+    text-align: center;
+   margin-left: 150px;
+   margin-top: 55px;
+}
+.sphoto1 img{
+    width: 150px;
+}
+.sphoto1 h3{
+    color: rgb(102, 100, 100);
+}
+.sphoto1 p{
+    color: rgb(110, 107, 107);
+}
+
+
+.sectionbig {
+    display: flex;
+}
+
+.sphoto2 {
+    margin-left: 100px;
+    margin-top: 160px;
+    text-align: center;
+    z-index: 2;
+}
+.sphoto2 img{
+    width: 150px;
+}
+.sphoto2 h3{
+    color: rgb(102, 100, 100);
+}
+.sphoto2 p{
+    color: rgb(110, 107, 107);
+}
+.class{
+    position: relative;
+}
+.class img{
+    position: absolute;
+    width: 750px;
+    margin-left: 280px;
+}
+.secdiv2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.secdiv2  .secdiv22 img{
+    width: 240px;
+    margin-top: 40px;
+    margin-right: 70px;
+}
+.secdiv2  .secdiv22{
+    text-align: center;
+}
+.secdiv2  .secdiv22 p{
+    color: rgb(110, 107, 107) ;
+}
+.secdiv2  .secdiv22 h3{
+    color: rgb(110, 107, 107) ;
+}
+
+
+
+
+
+.secdiv2  .secdiv21 {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   position: relative;
+   
+    
+}
+.secdiv2  .secdiv21 img{
+    width: 240px;
+    margin-top: 40px;
+    position: absolute;
+    z-index: -1;
+}
+.secdiv2  .secdiv21 .vbv{
+    color: white;
+    font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.secdiv2  .secdiv21 .vbv p{
+    font-size: 15px;
+}
+/*-------------------------------------------*/
+.cotch{
+    display: flex;
+    margin-inline: 158px;
+}
+.cotch .cmd{
+
+width: 450px;
+}
+.cotch .cmf{
+    width: 200px;
+    height: 200px;
+    margin-top: 130px;
+    margin-right: 70px;
+}
+.cotch .cmc{
+    width: 200px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.divpbpb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.classpb{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(110, 107, 107) ;
+}
+/*--------------------------------------------------------*/
+/*------------------------------------------------------------*/
+/*----------------------------------------------------------*/
+.wcc .gk{
+    position: relative;
+}
+
+.wcc .gk img{
+    width: 1263px;
+    position: absolute;
+    z-index: -1;
+}
+/*-------------------------------------*/
+.bigmahmoud .compo{
+    position: relative;
+}
+
+.bigmahmoud .compo button img{
+    width: 20px;
+    position: absolute;
+  
+}
+.bigmahmoud .compo button {
+    position: absolute;
+    z-index: -1;
+    margin-top: 320px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+
+
+    display: flex;
+    width: 115px;
+    padding: 10px;
+    
+  
+}
+.bigmahmoud .compo button p{
+
+margin-left: 24px;
+margin-top: 3px;
+}
+/*-------------------------------------------------*/
+.bigmahmoud .compopp{
+    position: relative;
+}
+
+.bigmahmoud .compopp button img{
+    width: 20px;
+    position: absolute;
+  
+}
+.bigmahmoud .compopp button {
+    position: absolute;
+    z-index: -1;
+    margin-top: 320px;
+    margin-left: 170px;
+    padding-bottom: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+
+
+    display: flex;
+    width: 115px;
+    padding: 10px;
+    
+  
+}
+.bigmahmoud .compopp button p{
+
+margin-left: 24px;
+margin-top: 3px;
+}
+/*------------------------------------*/
+ .anstgram   .face img{
+    width: 20px;
+
+}
+.anstgram {
+    position: relative;
+}
+.anstgram   .face{
+    position: absolute;
+    margin-top: 300px;
+    display: flex;
+}
+.anstgram   .face .si{
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.anstgram   .face .feather img{
+    width: 15px;
+}
+/*--------------------------------------------*/
+.compopp .pargraph{
+    display: flex;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+}
+.compopp .pargraph p{
+    margin-right: 45px;
+}
+/*---------------------------------------------------------------*/
+
+.bigmahmoud{
+   
+}
+.bigmahmoud  .larg{
+    position: relative;
+}
+.bigmahmoud  .larg img{
+    width: 600px;
+    position: absolute;
+    margin-left: 570px;
+    margin-top: 115px;
+    
+
+
+}
